@@ -131,9 +131,9 @@ This project demonstrates foundational **data analysis skills using Excel**, whi
 It highlights the ability to transform raw data into meaningful insights using spreadsheet tools.
 
 ## Pivot Table and Pivot Chart
-<img width="414" height="111" alt="image" src="https://github.com/user-attachments/assets/b7a4cf7a-bac9-4872-914d-bedf9d40c4f5" />
-<img width="388" height="153" alt="image" src="https://github.com/user-attachments/assets/adeaa385-6fb6-49e2-97ec-b00db59083ec" />
-<img width="430" height="261" alt="image" src="https://github.com/user-attachments/assets/76c7a11d-09a5-4062-88f5-cbea47f7dc5d" />
+<img width="400" height="165" alt="image" src="https://github.com/user-attachments/assets/adeaa385-6fb6-49e2-97ec-b00db59083ec" />
+<img width="479" height="165" alt="image" src="https://github.com/user-attachments/assets/6606c500-9623-4b86-9c36-359a4454f18c" />
+
 
 ## Visualisations
 
